@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gustavo Figueiredo
 
 - 👀 I’m interested in ...
-Art / Web Design
+Art / Web Design / Design Animation
 
 - 🌱 I’m currently learning ...
 Design Animation
