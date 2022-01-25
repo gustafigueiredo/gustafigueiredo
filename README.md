@@ -1,14 +1,15 @@
-- 👋 Hi, I’m @gustafigueiredo
+- 👋 Hi, I’m Gustavo Figueiredo
+
 - 👀 I’m interested in ...
-Art / web
+Art / Web Design
 
 - 🌱 I’m currently learning ...
-design animation
+Design Animation
 
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
-web
+Instagram: @gust_artist or e-mail: gustavoarte2020@outlook.com
 
 <!---
 gustafigueiredo/gustafigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
