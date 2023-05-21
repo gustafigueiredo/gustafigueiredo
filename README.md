@@ -9,7 +9,7 @@ Design Animation
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me ...
-Instagram: @gust_artist or e-mail: gustavoarte2020@outlook.com
+Instagram: @gustavoilustra or e-mail: gustavoarte2020@outlook.com
 
 <!---
 gustafigueiredo/gustafigueiredo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
